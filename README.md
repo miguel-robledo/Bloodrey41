@@ -1,4 +1,4 @@
-# Hi, I'm Miguel Angel Robledo Gutierrez 👋
+# Hi, I'm Miguel 👋
 
 **Software Architect · Senior Full Stack Developer** — Armenia, Quindío, Colombia 🇨🇴
 
@@ -29,7 +29,7 @@ I design and build backend systems for the EdTech / e-learning domain — multi-
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-robledo-gutierrez-b0846a407/)
 - 📧 miguel.robledo0509@gmail.com
-- 📍 Remote (any country, Spanish-speaking roles) or on-site in Armenia, Colombia
+- 📍 Remote (any country, Spanish-speaking roles)
 
 ---
 
